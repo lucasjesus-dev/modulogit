@@ -1,6 +1,1 @@
-Meu primeiro sistema no GIT.
-
-Alterar todos arquivos.
-
-Alteração feita no MASTER.
-
+Meu primeiro sistema no git (altarado e atualizado!)
